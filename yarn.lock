@@ -490,6 +490,10 @@ proxy-addr@~2.0.2:
     forwarded "~0.1.2"
     ipaddr.js "1.6.0"
 
+qcloudsms_js@^0.1.0:
+  version "0.1.0"
+  resolved "http://registry.npm.taobao.org/qcloudsms_js/download/qcloudsms_js-0.1.0.tgz#2799977d694d9275d44a18326bf18ed849b2c096"
+
 qiniu@^7.1.2:
   version "7.1.2"
   resolved "http://registry.npm.taobao.org/qiniu/download/qiniu-7.1.2.tgz#e386aeb7b23ca7ce03fe7c5d0a65d51b86c451aa"
